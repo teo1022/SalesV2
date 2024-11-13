@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arroy\\Documents\\Sales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\data\\seeddb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\controllers\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\migrations\\20241106013748_relational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\migrations\\20241106013748_relational.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|c:\\users\\arroy\\documents\\sales\\sales.shared\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|solutionrelative:sales.shared\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|c:\\users\\arroy\\documents\\sales\\sales.shared\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|solutionrelative:sales.shared\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|c:\\users\\arroy\\documents\\sales\\sales.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FDB5FC-B50A-4E7E-AA43-D70A2773E27D}|Sales.API\\Sales.API.csproj|solutionrelative:sales.api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|c:\\users\\arroy\\documents\\sales\\sales.shared\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17B1AAC-81BA-45CA-A1CF-260AAF43B8E7}|Sales.Shared\\Sales.Shared.csproj|solutionrelative:sales.shared\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Sales.API\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:53:17.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241106013748_Relational.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Migrations\\20241106013748_Relational.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Migrations\\20241106013748_Relational.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Migrations\\20241106013748_Relational.cs",
+              "RelativeToolTip": "Sales.API\\Migrations\\20241106013748_Relational.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:37:48.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Sales.Shared\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\City.cs",
+              "RelativeToolTip": "Sales.Shared\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:25:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\State.cs",
+              "RelativeDocumentMoniker": "Sales.Shared\\Entities\\State.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\State.cs",
+              "RelativeToolTip": "Sales.Shared\\Entities\\State.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:17:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Program.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Program.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Program.cs",
+              "RelativeToolTip": "Sales.API\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:25:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241106015928_AddStatesAndCities.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs",
+              "RelativeToolTip": "Sales.API\\Migrations\\20241106015928_AddStatesAndCities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:59:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StatesController.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\StatesController.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Controllers\\StatesController.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\StatesController.cs",
+              "RelativeToolTip": "Sales.API\\Controllers\\StatesController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:00:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Sales.API\\Controllers\\CitiesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:10:01.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedDb.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Data\\SeedDb.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Data\\SeedDb.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Data\\SeedDb.cs",
+              "RelativeToolTip": "Sales.API\\Data\\SeedDb.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:38:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Sales.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\appsettings.json",
+              "RelativeToolTip": "Sales.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T01:40:00.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Sales.API\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.API\\Data\\DataContext.cs",
+              "RelativeToolTip": "Sales.API\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:31:58.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Sales.Shared\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\arroy\\Documents\\Sales\\Sales.Shared\\Entities\\Country.cs",
+              "RelativeToolTip": "Sales.Shared\\Entities\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:21:58.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
